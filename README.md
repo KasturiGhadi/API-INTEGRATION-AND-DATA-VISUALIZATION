@@ -4,6 +4,7 @@ NAME : KASTURI GHADI
 INTERN ID : CT04DG3368
 DURATION : 4 WEEKS
 MENTOR : NEELA SANTHOSH KUMAR
+
 DESCRIPTION :
 This project involves creating a Weather Forecast Dashboard using IDLE Python, integrating real-time weather data from the OpenWeatherMap API, and visualizing it with Matplotlib and Seaborn. It showcases how to fetch, process, and visualize real-world data in a meaningful and insightful way, using a city of choice (e.g., Mumbai). The project begins by requesting forecast data for the next five days from OpenWeatherMap’s API. The returned data is in JSON format and contains various weather metrics like temperature, humidity, and description of weather conditions in three-hour intervals. Using Python’s requests and datetime libraries, the script extracts the relevant fields and organizes them for analysis. The key features of this project include: Real-time data fetching using a public API. Temperature and humidity plots with proper labeling and time axes. Option to change the city dynamically by updating one variable. Saving the weather forecast into a CSV file. Displaying visualizations on a single page dashboard.
 
